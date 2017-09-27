@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<server>
+	<server-name>网关内部客户端连接服务器</server-name>
+	<server-id>10000</server-id>
+	<server-web>beast</server-web>
+</server>
